@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 62 (101010) - https://sketch.com -->
+    <title>1ECA74E6-0C69-498B-96C1-1FF7F533E25C@0,5x</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Asset-Artboard-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/player/pause/big" fill="#FFFFFF">
+            <g id="icon/player/pause" transform="translate(4.000000, 0.000000)">
+                <path d="M21.25,0 C22.9068542,-3.04359188e-16 24.25,1.34314575 24.25,3 L24.25,29 C24.25,30.6568542 22.9068542,32 21.25,32 C19.5931458,32 18.25,30.6568542 18.25,29 L18.25,3 C18.25,1.34314575 19.5931458,3.04359188e-16 21.25,0 Z"
+                    id="Rectangle" />
+                <path d="M3.25,0 C4.90685425,-3.04359188e-16 6.25,1.34314575 6.25,3 L6.25,29 C6.25,30.6568542 4.90685425,32 3.25,32 C1.59314575,32 0.25,30.6568542 0.25,29 L0.25,3 C0.25,1.34314575 1.59314575,3.04359188e-16 3.25,0 Z"
+                    id="Rectangle" />
+            </g>
+        </g>
+    </g>
+</svg>

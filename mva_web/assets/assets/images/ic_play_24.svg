@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>icon/play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        <path d="M19.3995122,9.86252312 C21.5338653,10.9984295 21.5331265,13.0017935 19.3995122,14.1373067 L7.51418269,20.4626994 C5.10698388,21.7438147 3,20.6459092 3,18.104418 L3,5.89541183 C3,3.35746984 5.10505543,2.25498879 7.51418269,3.53713044 L19.3995122,9.86252312 Z" id="Path" fill="#FFFFFF"></path>
+    </g>
+</svg>

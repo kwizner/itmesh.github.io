@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>icon/player/next</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/player/next" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        <g transform="translate(2.000000, 3.000000)" fill="#FFFFFF">
+            <path d="M19,0 C20.1045695,-2.02906125e-16 21,0.8954305 21,2 L21,16 C21,17.1045695 20.1045695,18 19,18 C17.8954305,18 17,17.1045695 17,16 L17,2 C17,0.8954305 17.8954305,2.02906125e-16 19,0 Z" id="Rectangle"></path>
+            <path d="M16.3995122,6.86252312 C18.5338653,7.9984295 18.5331265,10.0017935 16.3995122,11.1373067 L4.51418269,17.4626994 C2.10698388,18.7438147 0,17.6459092 0,15.104418 L0,2.89541183 C0,0.357469837 2.10505543,-0.74501121 4.51418269,0.537130437 L16.3995122,6.86252312 Z" id="Path" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

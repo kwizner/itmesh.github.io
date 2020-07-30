@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 62 (101010) - https://sketch.com -->
+    <title>26E792D4-17D4-4A72-ADF6-07B5A30D5A2D</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Asset-Artboard-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/share">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+            <g id="Group" transform="translate(5.000000, 2.000000)">
+                <path d="M11.827957,6.35220126 C12.6593534,6.35220126 13.3333333,7.07266258 13.3333333,7.96139666 L13.3333333,18.0763392 C13.3333333,18.9650733 12.6593534,19.6855346 11.827957,19.6855346 L1.50537634,19.6855346 C0.673979946,19.6855346 0,18.9650733 0,18.0763392 L0,7.96139666 C0,7.07266258 0.673979946,6.35220126 1.50537634,6.35220126 L4.425,6.35220126 L4.425,7.73120126 L1.50537634,7.7315116 C1.38660543,7.7315116 1.29032258,7.83443465 1.29032258,7.96139666 L1.29032258,18.0763392 C1.29032258,18.2033012 1.38660543,18.3062242 1.50537634,18.3062242 L11.827957,18.3062242 C11.9467279,18.3062242 12.0430108,18.2033012 12.0430108,18.0763392 L12.0430108,7.96139666 C12.0430108,7.83443465 11.9467279,7.7315116 11.827957,7.7315116 L8.907,7.73120126 L8.907,6.35220126 L11.827957,6.35220126 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <polyline id="Line-2-Copy" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" transform="translate(6.729560, 1.674528) scale(-1, 1) translate(-6.729560, -1.674528) " points="3.30188679 3.3490566 6.6509434 9.58702021e-15 10.1572327 3.1918239"></polyline>
+                <line x1="6.6509434" y1="11.3836478" x2="6.6509434" y2="0.676100629" id="Line" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>
